@@ -1,7 +1,5 @@
-# Assignment-1secure-coding
-A Java programming task! Here's the solution:
+Assignment-1secure-coding
 
-```
 // Create a class Bank with fields accountType and accountBalance
 class Bank {
     String accountType;
@@ -30,7 +28,7 @@ class Bank {
     }
 }
 
-// 6. Create a class Insurance that inherits from the Bank class
+// Create a class Insurance that inherits from the Bank class
 class Insurance extends Bank {
     //Create a method cover that prints "You are covered"
     void cover() {
