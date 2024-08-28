@@ -1,4 +1,4 @@
-Assignment-1secure-coding
+# Assignment-1secure-coding
 
 // Create a class Bank with fields accountType and accountBalance
 class Bank {
